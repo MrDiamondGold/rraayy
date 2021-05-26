@@ -1,0 +1,7 @@
+struct VoxelShape {
+    
+}
+
+impl VoxelShape {
+
+}
